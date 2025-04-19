@@ -1,4 +1,4 @@
-# ROS 2 Jazzy & NS-3 Integration on Ubuntu 22.04
+# ROS 2 Jazzy & NS-3 Integration on Ubuntu 24.04
 
 ## 📡 Bridging Real-time Robotics and Network Simulation
 
